@@ -1,7 +1,7 @@
 # Zoho-Tickets-Tracker-Dashboard-Interactive-Dashboard-creation-using-Power-BI
 ## Project Objective
 The IT support and operations management team wants a single ticket tracking dashboard as on May 25. So that management can track open vs. closed tickets, monitor ticket escalation levels (L1, L2, L3), check ticket owner performance, and analyze client and product ticket volumes to optimize support response.
-## Not :
+## Note :
 Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
 
 ## Dataset used
