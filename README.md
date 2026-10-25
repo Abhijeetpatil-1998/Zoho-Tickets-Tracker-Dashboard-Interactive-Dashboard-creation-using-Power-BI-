@@ -24,7 +24,7 @@ The IT support and operations management team wants a single ticket tracking das
 - Created visuals according to the questions asked: Top KPI summary ribbon, ticket owner status table, product by level matrix, top 12 clients pareto bar chart, day-wise trend column chart, and status donut chart.
 - Merged all visuals into one dashboard and applied slicers (Department Name, Month) to make it dynamic.
 ## Dashboard  
-
+![Zoho Tickets Tracker Dashbaord](https://github.com/Abhijeetpatil-1998/Zoho-Tickets-Tracker-Dashboard-Interactive-Dashboard-creation-using-Power-BI-/blob/main/Zoho%20Tickets%20Tracker%20Dashbaord.jpeg)
 
 ## Project Insight
 - Total of 1,040 tickets (1,064 total records across levels) were logged, with 1,018 tickets closed.
