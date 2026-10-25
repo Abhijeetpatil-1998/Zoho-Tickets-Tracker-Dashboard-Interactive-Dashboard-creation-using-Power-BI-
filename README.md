@@ -7,7 +7,7 @@ Due to data privacy and company confidentiality policies, raw datasets, customer
 ## Dataset used
 - Ticket-level data up to May 25
 - Fields: Ticket ID, Ticket Owner, Ticket Status, Escalation Level (L1, L2, L3), Product, Client Name, Department Name, Ticket Date / Month
--   Dataset: data/zoho_tickets_data.xlsx (add your file here)
+
  ## Questions (KPIs)
   - What is the total number of tickets and how many are open vs. closed?
   - How many open tickets are sitting at L1, L2, and L3 escalation levels?
