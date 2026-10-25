@@ -15,7 +15,7 @@ The IT support and operations management team wants a single ticket tracking das
   - How does ticket creation volume trend day-by-day throughout the month?
 
 ## Dashboard Interaction
-View Dashboard
+- <a href="https://github.com/Abhijeetpatil-1998/Zoho-Tickets-Tracker-Dashboard-Interactive-Dashboard-creation-using-Power-BI-/blob/main/Zoho%20Tickets%20Tracker%20Dashbaord.jpeg">View Dashboard</a>
 
 ## Process
 - Verified data for missing values, duplicate ticket logs and anomalies, and sorted out the same.
